@@ -1,0 +1,4 @@
+# This repo is created for personal use with github pages
+
+## Guys. This is fucking useless. Really.
+## You would not find any useful code. Just notes of a madman with the help of ChatGPT
