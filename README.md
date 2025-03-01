@@ -5,4 +5,4 @@
 
 ### Notes
 1. Navigation is not working. Well... What did i expect?
-2. Trying this [link to politics folder](../Frontier_main/Politics)
+2. Trying this [link to politics folder](/Frontier_main/Politics)
