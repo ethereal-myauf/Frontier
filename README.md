@@ -7,8 +7,10 @@
 1. Navigation is not working. Well... What did i expect?
 2. Trying this [link to politics folder](/Frontier_main/Politics)
 3. MY GOD THIS SHIT WORKS
-4. And.. in obsidian [link to politics navigation file](/Frontier_main/Politics/Politics-navigation)
+4. And.. in obsidian [link to politics navigation file](/Frontier_main/Politics/Politics-navigation.md)
 5. ALSO FUCKING WORKS
 6. MY GOD
 7. So... I have to rewrite all links
 8. my god....
+9. Блять оно работает наконец-то. Начальные ссылки кста в index.md
+10. Как же я люблю этот мир, вы бы знали
