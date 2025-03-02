@@ -1,4 +1,4 @@
-[**Обратно к навигации**](/Frontier_main/Politics/Core/Core-navigation)
+[**Обратно к навигации**](/Frontier_main/Politics/Core/Core-navigation.md)
 ### **Иерархия Теократии в Ядре Галактики**
 
 #### 1. **Император**

@@ -16,4 +16,4 @@
 5. **Экологическое влияние как видообразование** 
 6. **Генетическая чистота** 
 
-[**Обратно к навигации**](/Frontier_main/Technology/Tech-Navigation)
+[**Обратно к навигации**](/Frontier_main/Technology/Tech-Navigation.md)
